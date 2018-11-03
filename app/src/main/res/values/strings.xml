@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">UnamAndroid</string>
+<string name="app_name">Unam Android</string>
+    <string name="welcome_message">Bienvenido</string>
+    <string name="enter_message">Entrar</string>
 </resources>

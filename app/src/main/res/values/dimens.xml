@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="welcome_dimens">30sp</dimen>
+<dimen name="top_padding">100dp</dimen>
+</resources>
